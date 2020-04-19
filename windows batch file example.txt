@@ -1,0 +1,3 @@
+@echo off
+@py "C:\Users\user\folder\myscript.py"  %*
+@pause
